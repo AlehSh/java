@@ -1,0 +1,48 @@
+Test Case ID: 		TC-01.01 - PASSED
+Title Expected/Actual: 	Welcome to Sign Up/Welcome to Sign Up
+=========================================
+Test Case ID: 		TC-01.02 - PASSED
+App title Expected/Actual: 	Sign Up/Sign Up
+=========================================
+Test Case ID: 		TC-01.03 - PASSED
+			Page contains quote 
+=========================================
+Test Case ID: 		TC-01.04 - PASSED
+			Quote updated 
+=========================================
+Test Case ID: 		TC-01.05 - PASSED
+			Page contains 'First Name' 
+=========================================
+Test Case ID: 		TC-01.06 - PASSED
+			Page contains 'Last Name' 
+=========================================
+Test Case ID: 		TC-01.07 - PASSED
+			Page contains 'Email Address' 
+=========================================
+Test Case ID: 		TC-01.08 - PASSED
+			Page contains 'Phone' 
+=========================================
+Test Case ID: 		TC-01.09 - PASSED
+			Page contains 'Radio button Male' 
+=========================================
+Test Case ID: 		TC-01.10 - PASSED
+			Page contains 'Radio button Female' 
+=========================================
+Test Case ID: 		TC-01.11 - PASSED
+			Page contains drop-down list 'State' 
+=========================================
+Test Case ID: 		TC-01.17 - PASSED
+			Image size: 60x60
+=========================================
+Test Case ID: 		TC-01.21 - PASSED
+Title Expected/Actual: 	Welcome to Facebook - Log In, Sign Up or Learn More/Welcome to Facebook - Log In, Sign Up or Learn More
+=======================================
+Test Case ID: 		TC-01.33 - PASSED
+			Quote length: 74
+=======================================
+Test Case ID: 		TC-01.34 - PASSED
+Error Expected/Actual: 	Please enter First Name/Please enter First Name
+=======================================
+Test Case ID: 		TC-01.37 - PASSED
+Error Expected/Actual: 	Please enter Phone Number/Please enter Phone Number
+=======================================
